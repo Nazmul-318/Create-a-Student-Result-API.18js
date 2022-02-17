@@ -1,0 +1,89 @@
+{
+    "students" : [
+       {
+        "id"   : 1,
+        "name" : "Nazmul Huda",
+        "roll" : 1,
+        "reg"  : 2022,
+        "age"  : 30,
+        "cls"  : 12,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci" : 75,
+        "rel"  : 78,
+        "dist" : "Rajshahi",
+        "img"  : "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg"
+         },
+        {
+        "id"   : 2,
+        "name" : "Razwan",
+        "roll" : 2,
+        "reg"  : 2023,
+        "cls"  : 12,
+        "age"  : 38,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci" : 75,
+        "rel"  : 78,
+        "dist" : "Rajshahi",
+        "img"  : "https://media.istockphoto.com/photos/handsome-latin-man-against-turquoise-background-picture-id1182055260?b=1&k=20&m=1182055260&s=170667a&w=0&h=-KvJpBmOsHK5G_1loSH-6uvtzwIH5XxNrdLrfvdE5k0="
+        },
+
+        {
+        "id"   : 3,
+        "name" : "Naimul Hasan",
+        "roll" : 3,
+        "reg"  : 2024,
+        "cls"  : 12,
+        "age"  : 16,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci" : 75,
+        "rel"  : 78,
+        "dist" : "Rajshahi",
+        "img"  : "https://media.istockphoto.com/photos/serious-young-afro-american-man-standing-in-studio-picture-id1040478272?b=1&k=20&m=1040478272&s=170667a&w=0&h=MROTCpVjEoJE9_zvVQrg7yh8fw7-sQHcVZoORcJKQfk="
+               },
+        {
+        "id"   : 4,
+        "name" : "salma Islam",
+        "roll" : 4,
+        "reg"  : 2025,
+        "cls"  : 12,
+        "age"  : 16,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci" : 75,
+        "rel"  : 78,
+        "dist" : "Rajshahi",
+        "img"  : "https://media.istockphoto.com/photos/studio-waist-up-portrait-of-a-beautiful-businesswoman-with-crossed-picture-id1180926773?b=1&k=20&m=1180926773&s=170667a&w=0&h=sZKGcujCiCRHU0IFE26OUxY4kY7ejw273S-08e1GzhM="
+           },
+
+       {
+        "id"   : 5,
+        "name" : "Jasmin",
+        "roll" : 5,
+        "reg"  : 2026,
+        "cls"  : 10,
+        "age"  : 15,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci" : 75,
+        "rel"  : 78,
+        "dist" : "Rajshahi",
+        "img"  : "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwYW5kJTIwd29tYW58ZW58MHx8MHx8&w=1000&q=80"
+       }
+
+                      
+]
+ 
+}
